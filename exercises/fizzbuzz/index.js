@@ -25,6 +25,5 @@ function fizzBuzz(n) {
     }
   }
 }
-fizzBuzz(100);
-fizzBuzz(30);
+
 module.exports = fizzBuzz;
